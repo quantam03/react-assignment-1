@@ -1,0 +1,51 @@
+body{
+    background-color: antiquewhite;
+}
+.heading{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px rgb(71, 6, 71);
+}
+
+.external{
+    color: rgb(134, 9, 9);
+    font-size: 20px;
+}
+.btn{
+    border: 2px solid black;
+    width: 400px;
+    height: 75px;
+    margin: 30px 0 0 150px;
+    border-radius: 30px;
+    font-size: 19px;
+    background-color: rgb(29, 216, 185);
+    color: white;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color:rgb(9, 104, 104);
+    color:black;
+}
+
+.box{
+    border: 2px solid black;
+    width: 400px;
+    height: 250px;
+    position:absolute;
+    border-radius: 40px;
+    margin: 100px 100px 0 100px;
+    padding: 30px;
+
+  text-align: center;
+
+  
+}
+.box1{
+    background-color: rgb(213, 248, 17);
+}
+.box2{
+    background-color: rgb(213, 248, 17);
+    right: 60px;
+}
